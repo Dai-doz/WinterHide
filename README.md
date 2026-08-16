@@ -348,11 +348,6 @@ Special thanks to:
 
 Stay tuned for updates, releases, and projects.
 
----
-
-## 📜 License
-
-See the repository for the current licensing and distribution terms.
 
 ---
 
