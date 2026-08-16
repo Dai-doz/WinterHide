@@ -1,0 +1,16 @@
+ro.product.device=essi
+ro.product.system.brand=Samsung
+ro.product.system.manufacturer=Samsung
+ro.product.product.manufacturer=Samsung
+ro.system.manufacturer=Samsung
+ro.product.model=SM-A566E
+ro.product.name=a56xnsxx
+ro.product.product.device=essi
+ro.product.product.model=SM-A566E
+ro.product.brand=Samsung
+ro.product.product.name=a56xnsxx
+ro.product.brand_for_attestation=samsung
+ro.product.device_for_attestation=essi
+ro.product.manufacturer_for_attestation=Samsung
+ro.product.model_for_attestation=SM-A566E
+ro.product.name_for_attestation=SM-A566E

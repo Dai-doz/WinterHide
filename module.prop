@@ -1,0 +1,7 @@
+id=WinterHide
+name=Winter Hide Module
+version=v1.0.0
+versionCode=100
+author=Xv2Ice
+description=Spoof it. Hide it. Winter does it.
+updateJson=https://raw.githubusercontent.com/xv2ice/WinterHide/main/update.json
